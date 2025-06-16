@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "text_encoding": "c",
+        "typeinfo": "c",
+        "common.h": "c"
+    }
+}
